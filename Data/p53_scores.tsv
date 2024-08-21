@@ -1,0 +1,403 @@
+ID	protein_change	p53_intensity	p53_pct	Training_level	maxvaf	effect	Transcription	Second	VAF2	LOH
+61	p.M237I	3	60	Attending	92.7	Missense	2.13			LOH
+61	p.M237I	3	30	Resident	92.7	Missense	2.13			LOH
+61	p.M237I	3	70	Fellow	92.7	Missense	2.13			LOH
+38	p.C238S	2	90	Attending	4.6	Missense	13.85			No CNV
+38	p.C238S	2	10	Resident	4.6	Missense	13.85			No CNV
+38	p.C238S	2	10	Fellow	4.6	Missense	13.85			No CNV
+120	p.Y205N	3	60	Attending	45.8	Missense	10.18			No CNV
+120	p.Y205N	3	50	Resident	45.8	Missense	10.18			No CNV
+120	p.Y205N	3	20	Fellow	45.8	Missense	10.18			No CNV
+100	p.S215I	3	70	Attending	77.9	Missense	16.99			LOH
+100	p.S215I	3	20	Resident	77.9	Missense	16.99			LOH
+100	p.S215I	3	70	Fellow	77.9	Missense	16.99			LOH
+119	p.Y205D	3	70	Attending	11	Missense	9.95			No CNV
+119	p.Y205D	3	40	Resident	11	Missense	9.95			No CNV
+119	p.Y205D	3	30	Fellow	11	Missense	9.95			No CNV
+1	WT	1	40	Attending		WT	100			
+1	WT	2	35	Resident		WT	100			
+1	WT	1	50	Fellow		WT	100			
+59	p.K164E	3	80	Attending	41.5	Missense	14.54			LOH
+59	p.K164E	3	15	Resident	41.5	Missense	14.54			LOH
+59	p.K164E	3	60	Fellow	41.5	Missense	14.54			LOH
+69	p.Q104*	0	n/a	Attending	9.8	Null	0			No CNV
+69	p.Q104*	1	10	Resident	9.8	Null	0			No CNV
+69	p.Q104*	1	10	Fellow	9.8	Null	0			No CNV
+46	p.G186_splice	1	5	Attending	32.2	Null	0			No CNV
+46	p.G186_splice	1	10	Resident	32.2	Null	0			No CNV
+46	p.G186_splice	0	N/A	Fellow	32.2	Null	0			No CNV
+60	p.L201fs*46	1	5	Attending	51.8	Null	0			LOH
+60	p.L201fs*46	1	10	Resident	51.8	Null	0			LOH
+60	p.L201fs*46	0	N/A	Fellow	51.8	Null	0			LOH
+105	p.V157F	3	80	Attending	29.3	Missense	10.85			Gain
+105	p.V157F	3	50	Resident	29.3	Missense	10.85			Gain
+105	p.V157F	3	80	Fellow	29.3	Missense	10.85			Gain
+96	p.R306*	1	50	Attending	29.6	Null	0			No CNV
+96	p.R306*	2	10	Resident	29.6	Null	0			No CNV
+96	p.R306*	1	50	Fellow	29.6	Null	0			No CNV
+109	p.V173M	3	40	Attending	28.8	Missense	8.98	p.G245S	27.6	No CNV
+109	p.V173M	3	25	Resident	28.8	Missense	8.98	p.G245S	27.6	No CNV
+109	p.V173M	3	40	Fellow	28.8	Missense	8.98	p.G245S	27.6	No CNV
+41	p.C238fs*	0	n/a	Attending	3.6	Null	0			No CNV
+41	p.C238fs*	1	5	Resident	3.6	Null	0			No CNV
+41	p.C238fs*	0	N/A	Fellow	3.6	Null	0			No CNV
+71	p.R174W	1	50	Attending	29.5	Missense	18.53			No CNV
+71	p.R174W	2	20	Resident	29.5	Missense	18.53			No CNV
+71	p.R174W	0	N/A	Fellow	29.5	Missense	18.53			No CNV
+57	p.H179delinsLN	3	80	Attending	13.9	Missense				LOH
+57	p.H179delinsLN	3	60	Resident	13.9	Missense				LOH
+57	p.H179delinsLN	3	70	Fellow	13.9	Missense				LOH
+62	p.P151S	2	90	Attending	45.4	Missense	5.66			No CNV
+62	p.P151S	2	50	Resident	45.4	Missense	5.66			No CNV
+62	p.P151S	2	80	Fellow	45.4	Missense	5.66			No CNV
+101	p.S215I	3	60	Attending	66.6	Missense	16.99			LOH
+101	p.S215I	3	30	Resident	66.6	Missense	16.99			LOH
+101	p.S215I	3	60	Fellow	66.6	Missense	16.99			LOH
+70	p.Q167fs*	1	20	Attending	68.3	Null	0			LOH
+70	p.Q167fs*	2	5	Resident	68.3	Null	0			LOH
+70	p.Q167fs*	0	N/A	Fellow	68.3	Null	0			LOH
+54	p.G266R	3	60	Attending	80.6	Missense	12.54			LOH
+54	p.G266R	3	50	Resident	80.6	Missense	12.54			LOH
+54	p.G266R	3	50	Fellow	80.6	Missense	12.54			LOH
+63	p.P151S	3	50	Attending	15.9	Missense	5.66			No CNV
+63	p.P151S	3	10	Resident	15.9	Missense	5.66			No CNV
+63	p.P151S	3	40	Fellow	15.9	Missense	5.66			No CNV
+56	p.H179R	2	20	Attending	12.2	Missense	26.29	p.P278S	9.4	No CNV
+56	p.H179R	2	5	Resident	12.2	Missense	26.29	p.P278S	9.4	No CNV
+56	p.H179R	1	20	Fellow	12.2	Missense	26.29	p.P278S	9.4	No CNV
+91	p.R280G	2	30	Attending	22.7	Missense	13.23			LOH
+91	p.R280G	2	5	Resident	22.7	Missense	13.23			LOH
+91	p.R280G	2	20	Fellow	22.7	Missense	13.23			LOH
+131	p.Y236H	2	30	Attending	0.5	Missense	14.94			No CNV
+131	p.Y236H	2	30	Resident	0.5	Missense	14.94			No CNV
+131	p.Y236H	2	90	Fellow	0.5	Missense	14.94			No CNV
+103	p.S99fs*	0	n/a	Attending	5.5	Null	0	p.L35fs*	7.2	
+103	p.S99fs*	1	20	Resident	5.5	Null	0	p.L35fs*	7.2	
+103	p.S99fs*	0	N/A	Fellow	5.5	Null	0	p.L35fs*	7.2	
+39	p.C238Y	3	70	Attending	16.1	Missense	16.1			LOH
+39	p.C238Y	3	50	Resident	16.1	Missense	16.1			LOH
+39	p.C238Y	3	70	Fellow	16.1	Missense	16.1			LOH
+77	p.R213L	3	60	Attending	63	Missense	0.61			LOH
+77	p.R213L	3	35	Resident	63	Missense	0.61			LOH
+77	p.R213L	3	60	Fellow	63	Missense	0.61			LOH
+95	p.R282W	0	n/a	Attending	6.9	Missense	0.18			No CNV
+95	p.R282W	3	5	Resident	6.9	Missense	0.18			No CNV
+95	p.R282W	2	5	Fellow	6.9	Missense	0.18			No CNV
+113	p.V218E	3	70	Attending	28.6	Missense	10.59	p.P278A	28.2	
+113	p.V218E	3	50	Resident	28.6	Missense	10.59	p.P278A	28.2	
+113	p.V218E	3	70	Fellow	28.6	Missense	10.59	p.P278A	28.2	
+72	p.R175H	2	50	Attending	73.3	Missense	10.11			LOH
+72	p.R175H	3	10	Resident	73.3	Missense	10.11			LOH
+72	p.R175H	2	30	Fellow	73.3	Missense	10.11			LOH
+47	p.G199*	0	n/a	Attending	93.6	Null	0			No CNV
+47	p.G199*	2	1	Resident	93.6	Null	0			No CNV
+47	p.G199*	0	N/A	Fellow	93.6	Null	0			No CNV
+58	p.K132R	3	70	Attending	9.7	Missense	11.48	p.Y234N	9.5	No CNV
+58	p.K132R	3	20	Resident	9.7	Missense	11.48	p.Y234N	9.5	No CNV
+58	p.K132R	2	30	Fellow	9.7	Missense	11.48	p.Y234N	9.5	No CNV
+2	WT	2	50	Attending		WT	100			
+2	WT	2	30	Resident		WT	100			
+2	WT	2	40	Fellow		WT	100			
+40	p.C238Y	3	70	Attending	36.2	Missense	16.1	pS241delS	31	No CNV
+40	p.C238Y	3	80	Resident	36.2	Missense	16.1	pS241delS	31	No CNV
+40	p.C238Y	3	60	Fellow	36.2	Missense	16.1	pS241delS	31	No CNV
+130	p.Y236C	3	70	Attending	46	Missense	3.63			LOH
+130	p.Y236C	3	30	Resident	46	Missense	3.63			LOH
+130	p.Y236C	3	60	Fellow	46	Missense	3.63			LOH
+64	p.P151S	2	90	Attending	50.3	Missense	5.66			No CNV
+64	p.P151S	3	20	Resident	50.3	Missense	5.66			No CNV
+64	p.P151S	2	95	Fellow	50.3	Missense	5.66			No CNV
+122	p.Y220C	0	n/a	Attending	1.3	Missense	2.85			No CNV
+122	p.Y220C	3	40	Resident	1.3	Missense	2.85			No CNV
+122	p.Y220C	1	5	Fellow	1.3	Missense	2.85			No CNV
+35	p.A159G	3	60	Attending	18.5	Missense	20.38	p.R248W	14.3	No CNV
+35	p.A159G	3	50	Resident	18.5	Missense	20.38	p.R248W	14.3	No CNV
+35	p.A159G	3	70	Fellow	18.5	Missense	20.38	p.R248W	14.3	No CNV
+110	p.V173M	3	60	Attending	95.7	Missense	8.98			No CNV
+110	p.V173M	3	50	Resident	95.7	Missense	8.98			No CNV
+110	p.V173M	3	80	Fellow	95.7	Missense	8.98			No CNV
+65	p.P151S	2	80	Attending	50.3	Missense	5.66			No CNV
+65	p.P151S	3	50	Resident	50.3	Missense	5.66			No CNV
+65	p.P151S	2	90	Fellow	50.3	Missense	5.66			No CNV
+87	p.R273H	3	80	Attending	48	Missense	2.51			No CNV
+87	p.R273H	3	60	Resident	48	Missense	2.51			No CNV
+87	p.R273H	3	90	Fellow	48	Missense	2.51			No CNV
+86	p.R267W	3	20	Attending	8.1	Missense	15.89	p.S241Y	4.6	
+86	p.R267W	3	5	Resident	8.1	Missense	15.89	p.S241Y	4.6	
+86	p.R267W	2	20	Fellow	8.1	Missense	15.89	p.S241Y	4.6	
+66	p.P152L	1	60	Attending	7.3	Missense	16.55			No CNV
+66	p.P152L	2	40	Resident	7.3	Missense	16.55			No CNV
+66	p.P152L	2	60	Fellow	7.3	Missense	16.55			No CNV
+80	p.R248G	3	40	Attending	18.8	Missense	0.08			LOH
+80	p.R248G	3	20	Resident	18.8	Missense	0.08			LOH
+80	p.R248G	3	30	Fellow	18.8	Missense	0.08			LOH
+111	p.V173M	3	70	Attending	81.9	Missense	8.98			No CNV
+111	p.V173M	3	40	Resident	81.9	Missense	8.98			No CNV
+111	p.V173M	3	50	Fellow	81.9	Missense	8.98			No CNV
+51	p.G245R	0	n/a	Attending	2.7	Missense	3.54			Noisy
+51	p.G245R	1	5	Resident	2.7	Missense	3.54			Noisy
+51	p.G245R	1	5	Fellow	2.7	Missense	3.54			Noisy
+99	p.S166*	0	n/a	Attending	19.3	Null	0	p.Q52*	17.5	
+99	p.S166*	1	5	Resident	19.3	Null	0	p.Q52*	17.5	
+99	p.S166*	0	N/A	Fellow	19.3	Null	0	p.Q52*	17.5	
+3	WT	0	n/a	Attending		WT	100			
+3	WT	1	10	Resident		WT	100			
+3	WT	1	5	Fellow		WT	100			
+4	WT	0	n/a	Attending		WT	100			
+4	WT	1	20	Resident		WT	100			
+4	WT	1	10	Fellow		WT	100			
+5	WT	2	60	Attending		WT	100			
+5	WT	2	50	Resident		WT	100			
+5	WT	2	20	Fellow		WT	100			
+123	p.Y220C	3	50	Attending	38.1	Missense	2.85	p.Y220H	4.3	
+123	p.Y220C	3	30	Resident	38.1	Missense	2.85	p.Y220H	4.3	
+123	p.Y220C	3	40	Fellow	38.1	Missense	2.85	p.Y220H	4.3	
+97	p.R306*	3	20	Attending	55.8	Null	0	p.V157F	31.9	
+97	p.R306*	3	15	Resident	55.8	Null	0	p.V157F	31.9	
+97	p.R306*	3	30	Fellow	55.8	Null	0	p.V157F	31.9	
+102	p.S241F	3	50	Attending	26.9	Missense	0.14	p.P152L	22.3	
+102	p.S241F	3	20	Resident	26.9	Missense	0.14	p.P152L	22.3	
+102	p.S241F	3	30	Fellow	26.9	Missense	0.14	p.P152L	22.3	
+49	p.G245D	3	40	Attending	47.4	Missense	4.38			Noisy
+49	p.G245D	3	20	Resident	47.4	Missense	4.38			Noisy
+49	p.G245D	3	30	Fellow	47.4	Missense	4.38			Noisy
+76	p.R213*	0	n/a	Attending	25.1	Null	0			No CNV
+76	p.R213*	0		Resident	25.1	Null	0			No CNV
+76	p.R213*	0	N/A	Fellow	25.1	Null	0			No CNV
+124	p.Y220C	3	60	Attending	18.3	Missense	2.85	p.L111Q	11.9	
+124	p.Y220C	3	40	Resident	18.3	Missense	2.85	p.L111Q	11.9	
+124	p.Y220C	3	60	Fellow	18.3	Missense	2.85	p.L111Q	11.9	
+44	p.D281V	0	n/a	Attending	45.8	Missense	0.14			LOH
+44	p.D281V	0		Resident	45.8	Missense	0.14			LOH
+44	p.D281V	0	N/A	Fellow	45.8	Missense	0.14			LOH
+36	p.C141Y	3	70	Attending	60.2	Missense	10.1			LOH
+36	p.C141Y	3	60	Resident	60.2	Missense	10.1			LOH
+36	p.C141Y	3	80	Fellow	60.2	Missense	10.1			LOH
+6	WT	1	50	Attending		WT	100			
+6	WT	2	10	Resident		WT	100			
+6	WT	1	30	Fellow		WT	100			
+127	p.Y234C	1	5	Attending	44	Missense	9.79			No CNV
+127	p.Y234C	2	10	Resident	44	Missense	9.79			No CNV
+127	p.Y234C	2	30	Fellow	44	Missense	9.79			No CNV
+104	p.T155N	3	50	Attending	89.7	Missense	9.35			LOH
+104	p.T155N	3	50	Resident	89.7	Missense	9.35			LOH
+104	p.T155N	3	50	Fellow	89.7	Missense	9.35			LOH
+7	WT	2	90	Attending		WT	100			
+7	WT	2	50	Resident		WT	100			
+7	WT	1	80	Fellow		WT	100			
+129	p.Y234H	3	40	Attending	47.5	Missense	0.89			LOH
+129	p.Y234H	3	25	Resident	47.5	Missense	0.89			LOH
+129	p.Y234H	3	40	Fellow	47.5	Missense	0.89			LOH
+55	p.H179N	3	50	Attending	62.4	Missense	26.84	p.Y126N	46.4	LOH
+55	p.H179N	3	65	Resident	62.4	Missense	26.84	p.Y126N	46.4	LOH
+55	p.H179N	3	60	Fellow	62.4	Missense	26.84	p.Y126N	46.4	LOH
+45	p.D281V	3	95	Attending	45.8	Missense	0.14			LOH
+45	p.D281V	3	90	Resident	45.8	Missense	0.14			LOH
+45	p.D281V	3	95	Fellow	45.8	Missense	0.14			LOH
+107	p.V173L	3	50	Attending	17.5	Missense	1.19			No CNV
+107	p.V173L	3	10	Resident	17.5	Missense	1.19			No CNV
+107	p.V173L	3	30	Fellow	17.5	Missense	1.19			No CNV
+8	WT	1	60	Attending		WT	100			
+8	WT	1	50	Resident		WT	100			
+8	WT	1	30	Fellow		WT	100			
+73	p.R175H	3	80	Attending	46.4	Missense	10.11			No CNV
+73	p.R175H	3	90	Resident	46.4	Missense	10.11			No CNV
+73	p.R175H	3	80	Fellow	46.4	Missense	10.11			No CNV
+9	WT	1	60	Attending		WT	100			
+9	WT	2	10	Resident		WT	100			
+9	WT	1	40	Fellow		WT	100			
+10	WT	1	30	Attending		WT	100			
+10	WT	2	30	Resident		WT	100			
+10	WT	1	40	Fellow		WT	100			
+11	WT	1	20	Attending		WT	100			
+11	WT	1	80	Resident		WT	100			
+11	WT	1	70	Fellow		WT	100			
+12	WT	0	n/a	Attending		WT	100			
+12	WT	1	5	Resident		WT	100			
+12	WT	1	20	Fellow		WT	100			
+13	WT	2	80	Attending		WT	100			
+13	WT	3	30	Resident		WT	100			
+13	WT	2	80	Fellow		WT	100			
+14	WT	2	90	Attending		WT	100			
+14	WT	3	70	Resident		WT	100			
+14	WT	2	90	Fellow		WT	100			
+98	p.RH213QY	3	70	Attending	45	Missense				No CNV
+98	p.RH213QY	3	60	Resident	45	Missense				No CNV
+98	p.RH213QY	3	70	Fellow	45	Missense				No CNV
+132	p.splice	3	60	Attending	40.2	Null	0			No CNV
+132	p.splice	3	40	Resident	40.2	Null	0			No CNV
+132	p.splice	3	50	Fellow	40.2	Null	0			No CNV
+133	p.splice	0	n/a	Attending	75.6	Null	0			No CNV
+133	p.splice	1	10	Resident	75.6	Null	0			No CNV
+133	p.splice	0	N/A	Fellow	75.6	Null	0			No CNV
+15	WT	2	80	Attending		WT	100			
+15	WT	2	40	Resident		WT	100			
+15	WT	1	70	Fellow		WT	100			
+85	p.R249S	2	40	Attending	74.6	Missense	12.66			LOH
+85	p.R249S	3	40	Resident	74.6	Missense	12.66			LOH
+85	p.R249S	3	50	Fellow	74.6	Missense	12.66			LOH
+52	p.G245S	3	40	Attending	32.9	Missense	4.2			LOH
+52	p.G245S	3	10	Resident	32.9	Missense	4.2			LOH
+52	p.G245S	3	30	Fellow	32.9	Missense	4.2			LOH
+82	p.R248W	1	10	Attending	40.1	Missense	0.09			No CNV
+82	p.R248W	2	10	Resident	40.1	Missense	0.09			No CNV
+82	p.R248W	2	15	Fellow	40.1	Missense	0.09			No CNV
+16	WT	1	5	Attending		WT	100			
+16	WT	1	40	Resident		WT	100			
+16	WT	1	60	Fellow		WT	100			
+17	WT	1	60	Attending		WT	100			
+17	WT	2	40	Resident		WT	100			
+17	WT	1	90	Fellow		WT	100			
+43	p.D281G	3	50	Attending	49	Missense	10.73			CN LOH
+43	p.D281G	3	50	Resident	49	Missense	10.73			CN LOH
+43	p.D281G	3	60	Fellow	49	Missense	10.73			CN LOH
+18	WT	1	5	Attending		WT	100			
+18	WT	1	50	Resident		WT	100			
+18	WT	1	40	Fellow		WT	100			
+19	WT	2	90	Attending		WT	100			
+19	WT	2	60	Resident		WT	100			
+19	WT	1	60	Fellow		WT	100			
+20	WT	1	20	Attending		WT	100			
+20	WT	2	10	Resident		WT	100			
+20	WT	1	70	Fellow		WT	100			
+21	WT	1	10	Attending		WT	100			
+21	WT	2	5	Resident		WT	100			
+21	WT	2	10	Fellow		WT	100			
+108	p.V173L	3	40	Attending	4.8	Missense	1.19			No CNV
+108	p.V173L	3	15	Resident	4.8	Missense	1.19			No CNV
+108	p.V173L	3	30	Fellow	4.8	Missense	1.19			No CNV
+88	p.R273H	3	70	Attending	48.5	Missense	2.51	p.L194H	45.6	
+88	p.R273H	3	55	Resident	48.5	Missense	2.51	p.L194H	45.6	
+88	p.R273H	3	60	Fellow	48.5	Missense	2.51	p.L194H	45.6	
+22	WT	2	20	Attending		WT	100			
+22	WT	3	10	Resident		WT	100			
+22	WT	1	70	Fellow		WT	100			
+23	WT	1	40	Attending		WT	100			
+23	WT	2	10	Resident		WT	100			
+23	WT	1	40	Fellow		WT	100			
+89	p.R273H	3	80	Attending	51.7	Missense	2.51	p.L194H	47.5	
+89	p.R273H	3	70	Resident	51.7	Missense	2.51	p.L194H	47.5	
+89	p.R273H	3	80	Fellow	51.7	Missense	2.51	p.L194H	47.5	
+121	p.Y220*	0	n/a	Attending	27	Null	0			LOH
+121	p.Y220*	1	5	Resident	27	Null	0			LOH
+121	p.Y220*	0	N/A	Fellow	27	Null	0			LOH
+94	p.R282G	3	70	Attending	93	Missense	0.2			Noisy
+94	p.R282G	3	90	Resident	93	Missense	0.2			Noisy
+94	p.R282G	3	70	Fellow	93	Missense	0.2			Noisy
+48	p.G199Kfs	1	10	Attending	32.1	Null	0			No CNV
+48	p.G199Kfs	1	5	Resident	32.1	Null	0			No CNV
+48	p.G199Kfs	1	15	Fellow	32.1	Null	0			No CNV
+68	p.P295A	0	n/a	Attending	27	Missense	1.5673			No CNV
+68	p.P295A	1	5	Resident	27	Missense	1.5673			No CNV
+68	p.P295A	0	N/A	Fellow	27	Missense	1.5673			No CNV
+24	WT	1	20	Attending		WT	100			
+24	WT	2	30	Resident		WT	100			
+24	WT	1	40	Fellow		WT	100			
+79	p.R2213*	2	40	Attending	35.4	Null	0	splice	18.3	
+79	p.R2213*	2	10	Resident	35.4	Null	0	splice	18.3	
+79	p.R2213*	2	40	Fellow	35.4	Null	0	splice	18.3	
+81	p.R248Q	0	n/a	Attending	50	Missense	0.21	p.D41Mfs*3	29.5	
+81	p.R248Q	0		Resident	50	Missense	0.21	p.D41Mfs*3	29.5	
+81	p.R248Q	0	N/A	Fellow	50	Missense	0.21	p.D41Mfs*3	29.5	
+25	WT	0	n/a	Attending		WT	100			
+25	WT	1	20	Resident		WT	100			
+25	WT	1	10	Fellow		WT	100			
+42	p.C242Afs	3	80	Attending	28.3	Null	0	p.P278_G279del	23.9	CN LOH
+42	p.C242Afs	3	80	Resident	28.3	Null	0	p.P278_G279del	23.9	CN LOH
+42	p.C242Afs	3	80	Fellow	28.3	Null	0	p.P278_G279del	23.9	CN LOH
+26	WT	1	20	Attending		WT	100			
+26	WT	1	10	Resident		WT	100			
+26	WT	1	60	Fellow		WT	100			
+134	p.splice	0	n/a	Attending	13.6	Null	0			No CNV
+134	p.splice	1	5	Resident	13.6	Null	0			No CNV
+134	p.splice	0	N/A	Fellow	13.6	Null	0			No CNV
+115	p.V274G	3	60	Attending	55.7	Missense	4.46			LOH
+115	p.V274G	3	50	Resident	55.7	Missense	4.46			LOH
+115	p.V274G	3	60	Fellow	55.7	Missense	4.46			LOH
+27	WT	2	90	Attending		WT	100			
+27	WT	3	35	Resident		WT	100			
+27	WT	2	90	Fellow		WT	100			
+28	WT	2	70	Attending		WT	100			
+28	WT	3	55	Resident		WT	100			
+28	WT	2	90	Fellow		WT	100			
+29	WT	1	20	Attending		WT	100			
+29	WT	2	5	Resident		WT	100			
+29	WT	1	20	Fellow		WT	100			
+125	p.Y220C	3	95	Attending	41	Missense	2.85	p.V143M	35.7	
+125	p.Y220C	3	80	Resident	41	Missense	2.85	p.V143M	35.7	
+125	p.Y220C	3	80	Fellow	41	Missense	2.85	p.V143M	35.7	
+30	WT	1	60	Attending		WT	100			
+30	WT	3	1	Resident		WT	100			
+30	WT	1	30	Fellow		WT	100			
+31	WT	3	60	Attending		WT	100			
+31	WT	3	20	Resident		WT	100			
+31	WT	3	30	Fellow		WT	100			
+117	p.Y107*	0	n/a	Attending	53.2	Null	0	p.R248Q	2.3	
+117	p.Y107*	0		Resident	53.2	Null	0	p.R248Q	2.3	
+117	p.Y107*	0	N/A	Fellow	53.2	Null	0	p.R248Q	2.3	
+128	p.Y234C	3	80	Attending	59.2	Missense	9.79			CN LOH
+128	p.Y234C	3	40	Resident	59.2	Missense	9.79			CN LOH
+128	p.Y234C	3	60	Fellow	59.2	Missense	9.79			CN LOH
+67	p.P278S	2	40	Attending	10	Missense	2.49			No CNV
+67	p.P278S	3	10	Resident	10	Missense	2.49			No CNV
+67	p.P278S	2	40	Fellow	10	Missense	2.49			No CNV
+32	WT	0	n/a	Attending		WT	100			
+32	WT	2	5	Resident		WT	100			
+32	WT	1	30	Fellow		WT	100			
+78	p.R213Q	3	15	Attending	60.3	Missense	0.6			Noisy
+78	p.R213Q	3	10	Resident	60.3	Missense	0.6			Noisy
+78	p.R213Q	3	20	Fellow	60.3	Missense	0.6			Noisy
+90	p.R273P	3	95	Attending	18	Missense	0.31			No CNV
+90	p.R273P	3	90	Resident	18	Missense	0.31			No CNV
+90	p.R273P	3	90	Fellow	18	Missense	0.31			No CNV
+126	p.Y220C	3	80	Attending	29	Missense	2.85			No CNV
+126	p.Y220C	3	40	Resident	29	Missense	2.85			No CNV
+126	p.Y220C	3	70	Fellow	29	Missense	2.85			No CNV
+83	p.R248W	2	15	Attending	20.6	Missense	0.09			No CNV
+83	p.R248W	2	5	Resident	20.6	Missense	0.09			No CNV
+83	p.R248W	2	15	Fellow	20.6	Missense	0.09			No CNV
+112	p.V173M	3	60	Attending	29.9	Missense	8.98	splice	13	
+112	p.V173M	3	15	Resident	29.9	Missense	8.98	splice	13	
+112	p.V173M	3	30	Fellow	29.9	Missense	8.98	splice	13	
+75	p.R181H	3	70	Attending	81.1	Missense	50.3			CN LOH
+75	p.R181H	3	40	Resident	81.1	Missense	50.3			CN LOH
+75	p.R181H	3	60	Fellow	81.1	Missense	50.3			CN LOH
+33	WT	1	10	Attending		WT	100			
+33	WT	2	5	Resident		WT	100			
+33	WT	1	20	Fellow		WT	100			
+92	p.R280K	3	40	Attending	32.6	Missense	0.61	p.Q144Cfs*25	15.9	
+92	p.R280K	3	20	Resident	32.6	Missense	0.61	p.Q144Cfs*25	15.9	
+92	p.R280K	3	40	Fellow	32.6	Missense	0.61	p.Q144Cfs*25	15.9	
+50	p.G245D	3	20	Attending	22.8	Missense	4.38			No CNV
+50	p.G245D	3	10	Resident	22.8	Missense	4.38			No CNV
+50	p.G245D	3	10	Fellow	22.8	Missense	4.38			No CNV
+106	p.V157G	3	60	Attending	86.4	Missense	9.2			LOH
+106	p.V157G	3	50	Resident	86.4	Missense	9.2			LOH
+106	p.V157G	3	60	Fellow	86.4	Missense	9.2			LOH
+74	p.R175H	3	60	Attending	46.4	Missense	10.11			No CNV
+74	p.R175H	3	45	Resident	46.4	Missense	10.11			No CNV
+74	p.R175H	3	50	Fellow	46.4	Missense	10.11			No CNV
+93	p.R280K	3	60	Attending	48.8	Missense	0.61	p.Q144Cfs*25	24.9	
+93	p.R280K	3	50	Resident	48.8	Missense	0.61	p.Q144Cfs*25	24.9	
+93	p.R280K	3	60	Fellow	48.8	Missense	0.61	p.Q144Cfs*25	24.9	
+118	p.Y163C	3	60	Attending	73.3	Missense	10.2			LOH
+118	p.Y163C	3	50	Resident	73.3	Missense	10.2			LOH
+118	p.Y163C	3	70	Fellow	73.3	Missense	10.2			LOH
+116	p.W146*	0	n/a	Attending	48.6	Null	0			LOH
+116	p.W146*	1	5	Resident	48.6	Null	0			LOH
+116	p.W146*	0	N/A	Fellow	48.6	Null	0			LOH
+37	p.C176G	3	80	Attending	84.6	Missense	17.14			LOH
+37	p.C176G	3	10	Resident	84.6	Missense	17.14			LOH
+37	p.C176G	2	40	Fellow	84.6	Missense	17.14			LOH
+34	WT	0	n/a	Attending		WT	100			
+34	WT	2	5	Resident		WT	100			
+34	WT	1	10	Fellow		WT	100			
+114	p.V272L	3	15	Attending	58.7	Missense	20.91			LOH
+114	p.V272L	2	15	Resident	58.7	Missense	20.91			LOH
+114	p.V272L	3	20	Fellow	58.7	Missense	20.91			LOH
+84	p.R248W	1	10	Attending	0.4	Missense	0.09			No CNV
+84	p.R248W	2	5	Resident	0.4	Missense	0.09			No CNV
+84	p.R248W	2	20	Fellow	0.4	Missense	0.09			No CNV
+53	p.G266E	1	5	Attending	1.6	Missense	1.65			No CNV
+53	p.G266E	1	10	Resident	1.6	Missense	1.65			No CNV
+53	p.G266E	1	5	Fellow	1.6	Missense	1.65			No CNV
