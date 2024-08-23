@@ -117,7 +117,9 @@ plott <- pt %>% melt(id.vars = c("Training_level", "seed", "effect"))
 
 gt <- plott[, list(mean(value), sd(value)), by = c("Training_level", "effect", "variable")]
 
-gt[effect == "WT", effect := "Wild-type"]
+gt[effect == "WT", effect := "Wild-type\n(1+)"]
+gt[effect == "Missense", effect := "Missense\n(3+)"]
+gt[effect == "Null", effect := "Null\n(0)"]
 
 gt %>% data.table::fwrite("../Figure 1/sensspectable.tsv", sep = "\t")
 
